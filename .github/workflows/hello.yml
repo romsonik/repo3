@@ -8,4 +8,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: ./hello.sh
+      - run: pwd
+#./hello.sh
